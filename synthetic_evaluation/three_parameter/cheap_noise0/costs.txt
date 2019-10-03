@@ -1,0 +1,6 @@
+S13 elements: 100000
+S13 total percentage sum: 153470.12094232475
+S13 average percent cost: 1.5347012094232475
+S14 elements: 100000
+S14 total percentage sum: 155968.2359498784
+S14 average percent cost: 1.559682359498784
