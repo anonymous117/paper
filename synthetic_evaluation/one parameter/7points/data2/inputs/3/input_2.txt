@@ -1,0 +1,14 @@
+{"params":{"p":4},"metric":"metr","value":4.259350196591971}
+{"params":{"p":4},"metric":"metr","value":4.259430867891439}
+{"params":{"p":8},"metric":"metr","value":17.237561720415243}
+{"params":{"p":8},"metric":"metr","value":17.104290788351435}
+{"params":{"p":16},"metric":"metr","value":63.48164755772778}
+{"params":{"p":16},"metric":"metr","value":67.19455236421292}
+{"params":{"p":32},"metric":"metr","value":263.84198293089065}
+{"params":{"p":32},"metric":"metr","value":260.3215674362839}
+{"params":{"p":64},"metric":"metr","value":1022.9120993872617}
+{"params":{"p":64},"metric":"metr","value":1024.3267392047019}
+{"params":{"p":128},"metric":"metr","value":4111.611252494724}
+{"params":{"p":128},"metric":"metr","value":4147.216702237799}
+{"params":{"p":256},"metric":"metr","value":17004.281657943236}
+{"params":{"p":256},"metric":"metr","value":17211.51789196845}
