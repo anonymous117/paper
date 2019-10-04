@@ -1,0 +1,8 @@
+ + 14.8335 + 306.094*log2^1(p)*(size^3)*log2^1(size)
+ + -2.3396e+06 + 308.236*log2^1(p)*(size^3)*log2^1(size)
+ + 166266 + 306.004*log2^1(p)*(size^3)*log2^1(size)
+ + 126504 + 306.016*log2^1(p)*(size^3)*log2^1(size)
+ + 143078 + 306.011*log2^1(p)*(size^3)*log2^1(size)
+ + 139221 + 306.063*log2^1(p)*(size^3)*log2^1(size)
+ + 66832.5 + 306.46*log2^1(p)*(size^3)*log2^1(size)
+ + 333467 + 306.446*log2^1(p)*(size^3)*log2^1(size)
