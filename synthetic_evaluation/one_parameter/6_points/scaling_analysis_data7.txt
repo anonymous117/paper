@@ -1,2 +1,0 @@
-x axis 1 step further:[93.5, 98.9, 99.6, 99.7, 99.8]
-x axis 2 step further:[88.2, 91.2, 97.5, 97.7, 98.1]

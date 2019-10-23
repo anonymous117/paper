@@ -1,6 +1,0 @@
-{"params":{"p":4},"metric":"metr","value":346.1621484307071}
-{"params":{"p":8},"metric":"metr","value":374.393940808397}
-{"params":{"p":16},"metric":"metr","value":374.1119492958698}
-{"params":{"p":32},"metric":"metr","value":402.88339580037706}
-{"params":{"p":64},"metric":"metr","value":415.72007040587266}
-{"params":{"p":128},"metric":"metr","value":462.9833399461084}
