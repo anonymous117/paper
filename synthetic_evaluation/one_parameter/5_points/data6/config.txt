@@ -1,7 +1,0 @@
-generate model options: GENERATE_MODEL_MEAN
-single parameter points strategy: FIRST_POINTS_FOUND
-multi parameter points strategy: INCREASING_COST
-number minimum points: 5
-measurement points for p: [4,8,16,32,64]
-noise percent: 5.0
-epsilon, term contribution minimum: 15.0
