@@ -1,12 +1,7 @@
 ### Info
-
-Notes for the evaluation:
-
-- The evaluation data has n=5% noise in both directions, effectively 10%.
-- A model is correct when the divergence between the actual and predicted value at the scaling point P(x,y,z) is smaller than the percentage of noise.
-- Additionally we invetigate if the predicted value is within e.g. 2x percent of noise.
-- N=1x means we check if the prediction is within the base 5% of noise. N=2x means within 10% noise in both directions.
-- The title of the plot also indicates for which axes and the specific point the scaling was checked.
-- The parameter values we use for the evaluation are x=[4,8,16,32,64], y=[10,20,30,40,50], z=[2,4,6,8,10].
-- For the evaluation of the scaling we go to the next and second next point in the row of an axis or all axis after the maximum point we use for modeling. E.g. p=64 -> p=128, P=256.
-
+ 
+To evaluate the accuracy of the single parameter modeler we use two different approaches:
+ 
+First, we analyze the scaling of a model at the next measurement point for x that was not used for modeling. Since we used x={4,8,16,32,64} for modeling this point is x=128. Then we check if the predicted value at this point is within noise (+-5%), 2x, 3x, 4x and 5x times the noise. 5x noise equals a divergence of +-25% to the actual measured value. If this is the case then we count the model as correct. Furthermore, we also check the scaling at the next point of x which is x=256. Each plot presentes the number of correct models, considering different noise bands, at a specific point with a different number of repetitions R={1,2,3,4,5,6,7}.
+ 
+Second, we analyze the model correctness by taking a look at the correctly identified function terms. As we have only 1 term for functions with 1 model parameter, the model is either correct or incorrect. The plot shows the number of correct models depending on the number of repetitions when using 5 points for modeling the behaviour of parameter x.
