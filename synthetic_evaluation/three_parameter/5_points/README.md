@@ -1,7 +1,3 @@
 ### Info
 
-Add new text here!
-
-----------------------
-
-For three model paramters we experimented with different numbers of measurement points per parameter. Each folder contains experiments considering a different number of points per parameter to create the single parameter experiments. We tested with 5, 6 and 7 points. We compare the accuracy of both modelers against each other and use the experiments to find the optimal number of repetitions per point and the number of points that should be used to acquire optimal results. Additionally, we experimented with different point selection strategies and took a look at how the modelers perform when exposed to different levels of noise.
+For the experiments with 5 points per model parameter we ran experiments with different amounts of noise (0%, +-1%, +-2% and +-5%) and two different point selection strategies. Strategy one is to use the cheapest available points for modeling. Strategy two is to use the most expensive points for modeling. As for the other experiments we tested different numbers of repetitions and modeler configurations and compared both modelers with each other, considering their accuracy and modeling cost.
